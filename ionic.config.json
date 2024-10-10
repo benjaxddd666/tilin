@@ -1,0 +1,7 @@
+{
+  "name": "tilin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
